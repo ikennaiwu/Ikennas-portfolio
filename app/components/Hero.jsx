@@ -45,7 +45,7 @@ return (
             <motion.a 
                 whileHover={{ scale: 1.05, translateY: -2 }}
                 whileTap={{ scale: 0.98 }}
-                href="/Ikenna_iwu-fullstack-CV.pdf" 
+                href="/IKENNAS-FullstackCV.pdf" 
                 target="_blank" 
                 className="px-10 py-5 border-2 border-gray-900 dark:border-white/20 text-gray-900 dark:text-white rounded-lg font-bold text-lg hover:bg-gray-900 hover:text-white dark:hover:bg-white dark:hover:text-gray-900 transition-all duration-300"
             >
