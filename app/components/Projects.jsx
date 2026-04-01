@@ -14,7 +14,7 @@ export default function Projects() {
             Featured Project
           </h2>
           <p className="mt-4 text-gray-600 dark:text-gray-400">
-            A real-world full-stack application currently in development
+            A real-world full-stack application fully built by me, showcasing my skills in frontend and backend development, database design, and deployment.
           </p>
         </div>
 
@@ -50,7 +50,7 @@ export default function Projects() {
             </div>
 
             <a
-              href="https://github.com/ikennaiwu/IkayStorez-MERN-Ecommerce"
+              href="https://github.com/ikennaiwu/Ikaystorez-Mern-Ecommerce-Store.git"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-black text-white px-6 py-3 rounded-xl 
@@ -63,7 +63,7 @@ export default function Projects() {
           {/* Right - Project Image */}
           <div className="rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition duration-500">
             <Image
-              src="/istockphoto-1216415029-612x612.jpg"
+              src="/frontpage.png"
               alt="IkayStorez Project Preview"
               width={800}
               height={500}

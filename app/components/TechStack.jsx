@@ -9,9 +9,9 @@ export default function TechStack() {
     "Node.js",
     "Express",
     "MongoDB",
-    "PostgreSQL",
-    "Docker",
-    "Nginx",
+    "Python",
+    "Docker and Kubernetes",
+    "AWS",
     "Git & GitHub",
   ];
 

@@ -62,6 +62,18 @@ export default function Contact() {
               github.com/ikennaiwu
             </a>
           </p>
+
+<p>
+  ✍️ Medium:{" "}
+  <a
+    href="https://medium.com/@piusiwu1"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-purple-600 font-medium hover:underline"
+  >
+    medium.com/@piusiwu1
+  </a>
+</p>
         </div>
 
         {/* Form */}

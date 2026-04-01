@@ -11,7 +11,7 @@ return (
         className="text-center py-32"
     >
         <Image
-            src="/ChatGPT Image Oct 12, 2025, 10_14_09 PM.png"
+            src="/pics.jpeg"
             alt="Profile"
             width={180}
             height={180}
